@@ -1,9 +1,15 @@
-@importGoogleFonts : true;
-@fontName          : 'Roboto';
+@importGoogleFonts : false;
+@fontName          : 'CyberSkyline';
 @googleFontSizes   : '300,400,500';
 
-@headerFontWeight: 300;
-@textFontWeight: 300;
+@headerFont        : @fontName, sans-serif;
+@pageFont          : @fontName, sans-serif;
+
+@headerFontWeight: 500;
+@textFontWeight: 400;
+
+@emSize   : 13px;
+@fontSize : 13px;
 
 @mobileBreakpoint            : 320px;
 @tabletBreakpoint            : 768px;
@@ -13,3 +19,11 @@
 
 @relativeBorderRadius: @relative2px;
 @absoluteBorderRadius: 2px;
+
+@roboto300: url(https://fonts.gstatic.com/s/roboto/v18/Hgo13k-tfSpn0qi1SFdUfaCWcynf_cDxXwCLxiixG1c.ttf);
+@roboto400: url(https://fonts.gstatic.com/s/roboto/v18/zN7GBFwfMP4uA6AR0HCoLQ.ttf);
+@roboto500: url(https://fonts.gstatic.com/s/roboto/v18/RxZJdnzeo3R5zSexge8UUaCWcynf_cDxXwCLxiixG1c.ttf);
+
+@lato300: url(https://fonts.gstatic.com/s/lato/v14/nj47mAZe0mYUIySgfn0wpQ.ttf);
+@lato400: url(https://fonts.gstatic.com/s/lato/v14/v0SdcGFAl2aezM9Vq_aFTQ.ttf);
+@lato700: url(https://fonts.gstatic.com/s/lato/v14/DvlFBScY1r-FMtZSYIYoYw.ttf);

@@ -1,3 +1,11 @@
 .ui.header .sub.header {
   font-weight: @subHeadingFontWeight;
 }
+
+.ui.light.header {
+  font-weight: @lightFontWeight;
+}
+
+.ui.thin.header {
+  font-weight: @thinFontWeight;
+}

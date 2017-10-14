@@ -11,4 +11,4 @@
 @shadowBoxShadow: rgba(0, 0, 0, 0.1) 0px 5px 10px -5px;
 @shadowHoverBoxShadow: 0px 5px 10px -3px #BCBDBD;
 
-@headerFontWeight: 400;
+@headerFontWeight: 500;

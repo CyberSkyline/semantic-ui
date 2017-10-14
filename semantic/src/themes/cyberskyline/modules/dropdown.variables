@@ -1,1 +1,5 @@
 @borderRadius: 2px;
+
+@menuHeaderFontWeight: 500;
+@inlineTextFontWeight: 500;
+@activeItemFontWeight: 500;

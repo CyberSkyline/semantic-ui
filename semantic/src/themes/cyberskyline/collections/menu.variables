@@ -4,3 +4,10 @@
 @secondaryItemBorderRadius: 2px;
 
 @boxShadow: none;
+
+@headerWeight: 500;
+@verticalHeaderFontWeight: 500;
+@dropdownActiveItemFontWeight: 500;
+@subMenuActiveFontWeight: 500;
+@secondaryPointingActiveFontWeight: 500;
+@textMenuHeaderFontWeight: 500;

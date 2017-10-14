@@ -1,2 +1,5 @@
-@fontWeight: 300;
-@subHeadingFontWeight: 300;
+@fontWeight: 500;
+@subHeadingFontWeight: 400;
+
+@lightFontWeight: 400;
+@thinFontWeight: 300;
