@@ -1,0 +1,26 @@
+# --------------------
+# Linux Files
+# --------------------
+*.swo
+*.swp
+*.module-cache
+*.DS_Store
+
+# --------------------
+# Node Files
+# --------------------
+node_modules/*
+npm-debug.log
+
+# --------------------
+# Coverage
+# --------------------
+debug/*
+.debug/*
+.coverrun
+.coverdata/*
+
+# --------------------
+# Builds
+# --------------------
+build/

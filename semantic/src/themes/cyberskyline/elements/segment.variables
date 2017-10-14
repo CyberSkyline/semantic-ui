@@ -1,0 +1,4 @@
+@borderRadius: 2px;
+@border: 0px;
+
+@boxShadow: rgba(0, 0, 0, 0.1) 0px 5px 15px -5px;

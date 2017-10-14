@@ -1,0 +1,6 @@
+@resultsBorderRadius: 2px;
+@resultsBoxShadow: rgba(0, 0, 0, 0.1) 0px 5px 15px -5px;
+@resultTitleFontWeight: 500;
+@messageHeaderFontWeight: 500;
+@actionFontWeight: 500;
+@categoryNameFontWeight: 500;

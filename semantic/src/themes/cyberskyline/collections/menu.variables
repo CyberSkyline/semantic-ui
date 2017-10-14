@@ -1,0 +1,6 @@
+@borderRadius: 2px;
+@dropdownMenuBorderRadius: 2px;
+@tabularBorderRadius: 2px;
+@secondaryItemBorderRadius: 2px;
+
+@boxShadow: none;

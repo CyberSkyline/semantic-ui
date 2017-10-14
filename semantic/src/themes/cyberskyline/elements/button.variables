@@ -1,0 +1,9 @@
+@borderRadius: 2px;
+
+@basicBoxShadow: none;
+@basicHoverBoxShadow: 0 0 0 1px rgba(34,36,38,.15) inset;
+@basicFocusBoxShadow: 0 0 0 1px rgba(34,36,38,.15) inset;
+@basicActiveBoxShadow: 0 0 0 1px rgba(34,36,38,.15) inset;
+
+@retinaFontWeight: 400;
+@fontWeight: 500;

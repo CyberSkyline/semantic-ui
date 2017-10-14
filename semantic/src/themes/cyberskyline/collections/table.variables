@@ -1,0 +1,6 @@
+@borderRadius: 2px;
+@headerFontWeight: 500;
+@footerFontWeight: 500;
+@definitionHeaderFontWeight: 500;
+@definitionFooterFontWeight: 500;
+@definitionColumnFontWeight: 500;

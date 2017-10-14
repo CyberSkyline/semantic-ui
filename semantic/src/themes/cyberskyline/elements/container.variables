@@ -1,0 +1,7 @@
+@tabletGutter: 1em;
+@computerGutter: 2em;
+@largeMonitorGutter: 2em;
+
+@largeMonitorWidth: inherit;
+@computerWidth: inherit;
+@tabletWidth: inherit;

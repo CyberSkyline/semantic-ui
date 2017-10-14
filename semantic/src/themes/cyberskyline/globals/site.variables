@@ -1,0 +1,15 @@
+@importGoogleFonts : true;
+@fontName          : 'Roboto';
+@googleFontSizes   : '300,400,500';
+
+@headerFontWeight: 300;
+@textFontWeight: 300;
+
+@mobileBreakpoint            : 320px;
+@tabletBreakpoint            : 768px;
+@computerBreakpoint          : 992px;
+@largeMonitorBreakpoint      : 1200px;
+@widescreenMonitorBreakpoint : 1920px;
+
+@relativeBorderRadius: @relative2px;
+@absoluteBorderRadius: 2px;

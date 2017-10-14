@@ -1,0 +1,4 @@
+@dateFontWeight: 300;
+@summaryFontWeight: 300;
+@summaryDateFontWeight: 300;
+@userFontWeight: 400;

@@ -1,0 +1,14 @@
+@borderRadius: 2px;
+@border: 0px;
+
+@boxShadow: rgba(0, 0, 0, 0.1) 0px 5px 15px -5px;
+@raisedShadow: rgba(0, 0, 0, 0.1) 0px 5px 15px -5px;
+
+@raisedShadowHover: rgba(0, 0, 0, 0.1) 0px 10px 15px -5px;
+@linkHoverBoxShadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -5px;
+
+@borderShadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -5px;
+@shadowBoxShadow: rgba(0, 0, 0, 0.1) 0px 5px 10px -5px;
+@shadowHoverBoxShadow: 0px 5px 10px -3px #BCBDBD;
+
+@headerFontWeight: 400;

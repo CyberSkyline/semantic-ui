@@ -1,0 +1,3 @@
+@labelFontWeight: 500;
+@groupedLabelFontWeight: 500;
+@inlineLabelFontWeight: 500;
