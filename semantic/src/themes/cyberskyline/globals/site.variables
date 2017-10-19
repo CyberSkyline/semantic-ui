@@ -27,3 +27,9 @@
 @lato300: url(https://fonts.gstatic.com/s/lato/v14/nj47mAZe0mYUIySgfn0wpQ.ttf);
 @lato400: url(https://fonts.gstatic.com/s/lato/v14/v0SdcGFAl2aezM9Vq_aFTQ.ttf);
 @lato700: url(https://fonts.gstatic.com/s/lato/v14/DvlFBScY1r-FMtZSYIYoYw.ttf);
+
+@mobileBreakpoint            : 320px;
+@tabletBreakpoint            : 768px;
+@computerBreakpoint          : 1050px;
+@largeMonitorBreakpoint      : 1550px;
+@widescreenMonitorBreakpoint : 1920px;
