@@ -1,14 +1,14 @@
 @borderRadius: 2px;
 @border: 0px;
 
-@boxShadow: rgba(0, 0, 0, 0.1) 0px 5px 15px -5px;
-@raisedShadow: rgba(0, 0, 0, 0.1) 0px 5px 15px -5px;
+@boxShadow: rgba(0,0,0,.1) 0px 1px 5px 0px, rgba(0,0,0,.05) 0px 7px 17px -3px;
+@raisedShadow: rgba(0,0,0,.1) 0px 1px 5px 0px, rgba(0,0,0,.05) 0px 7px 17px -3px;
 
-@raisedShadowHover: rgba(0, 0, 0, 0.1) 0px 10px 15px -5px;
-@linkHoverBoxShadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -5px;
+@raisedShadowHover: rgba(0,0,0,.1) 0px 1px 5px 0px, rgba(0,0,0,.05) 0px 14px 17px -3px;
+@linkHoverBoxShadow: rgba(0,0,0,.1) 0px 1px 5px 0px, rgba(0,0,0,.05) 0px 14px 17px -3px;
 
-@borderShadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -5px;
-@shadowBoxShadow: rgba(0, 0, 0, 0.1) 0px 5px 10px -5px;
-@shadowHoverBoxShadow: 0px 5px 10px -3px #BCBDBD;
+@borderShadow: rgba(0,0,0,.05) 0px 14px 17px -3px;
+@shadowBoxShadow: rgba(0,0,0,.05) 0px 7px 12px -3px;
+@shadowHoverBoxShadow: #BCBDBD 0px 5px 10px -3px;
 
 @headerFontWeight: 500;
