@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "semantic-ui": "~2.2.13"
+    "semantic-ui": "~2.3.0"
   }
 }
