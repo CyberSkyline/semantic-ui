@@ -6,6 +6,14 @@
   font-weight: @lightFontWeight;
 }
 
+.ui.light.header {
+  font-weight: @lightFontWeight;
+}
+
 .ui.thin.header {
+  font-weight: @thinFontWeight;
+}
+
+.ui.thin.header .sub.header {
   font-weight: @thinFontWeight;
 }

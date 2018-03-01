@@ -7539,7 +7539,15 @@ a.ui.inverted.grey.header:hover {
   font-weight: 400;
 }
 
+.ui.light.header {
+  font-weight: 400;
+}
+
 .ui.thin.header {
+  font-weight: 300;
+}
+
+.ui.thin.header .sub.header {
   font-weight: 300;
 }
 
