@@ -1,0 +1,7 @@
+/*******************************
+         Site Overrides
+*******************************/
+
+i.icon.cc.american.express { font-family: "brand-icons"; }
+i.icon.cc.american.express:before { content: "\f1f3"; }
+
