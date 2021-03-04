@@ -1,0 +1,19 @@
+.ui.list .list > .item ui.header .sub.header,
+.ui.list > .item .ui.header .sub.header {
+  font-weight: @subHeadingFontWeight;
+}
+
+.ui.list .list > .item ui.light.header,
+.ui.list > .item .ui.light.header {
+  font-weight: @lightFontWeight;
+}
+
+.ui.list .list > .item ui.thin.header,
+.ui.list > .item .ui.thin.header {
+  font-weight: @thinFontWeight;
+}
+
+.ui.list .list > .item ui.thin.header .sub.header,
+.ui.list > .item .ui.thin.header .sub.header {
+  font-weight: @thinFontWeight;
+}
