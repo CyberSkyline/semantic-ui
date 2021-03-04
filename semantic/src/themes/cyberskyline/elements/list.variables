@@ -1,1 +1,3 @@
+@import './header.variables';
+
 @itemHeaderFontWeight: 500;
