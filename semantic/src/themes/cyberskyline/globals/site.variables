@@ -17,8 +17,8 @@
 @largeMonitorBreakpoint      : 1200px;
 @widescreenMonitorBreakpoint : 1920px;
 
-@relativeBorderRadius: @relative2px;
-@absoluteBorderRadius: 2px;
+@relativeBorderRadius: @relative4px;
+@absoluteBorderRadius: 4px;
 
 @roboto300: url(https://fonts.gstatic.com/s/roboto/v18/Hgo13k-tfSpn0qi1SFdUfaCWcynf_cDxXwCLxiixG1c.ttf);
 @roboto400: url(https://fonts.gstatic.com/s/roboto/v18/zN7GBFwfMP4uA6AR0HCoLQ.ttf);

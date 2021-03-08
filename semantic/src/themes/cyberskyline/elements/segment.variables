@@ -1,4 +1,4 @@
-@borderRadius: 2px;
+@borderRadius: 13px;
 @border: 0px;
 @groupedSegmentDivider: 1px solid @borderColor;
 

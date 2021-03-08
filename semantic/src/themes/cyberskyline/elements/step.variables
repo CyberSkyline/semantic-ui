@@ -1,4 +1,4 @@
-@borderRadius: 2px;
+@borderRadius: 4px;
 
 @titleFontWeight: 500;
 @orderedFontWeight: 500;

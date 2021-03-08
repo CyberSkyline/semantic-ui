@@ -1,4 +1,4 @@
-@borderRadius: 2px;
+@borderRadius: 4px;
 @fontWeight: 500;
 @detailFontWeight: 500;
 @cornerTextWeight: 500;

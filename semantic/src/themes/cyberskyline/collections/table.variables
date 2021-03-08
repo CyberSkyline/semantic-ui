@@ -1,4 +1,4 @@
-@borderRadius: 2px;
+@borderRadius: 4px;
 @headerFontWeight: 500;
 @footerFontWeight: 500;
 @definitionHeaderFontWeight: 500;
