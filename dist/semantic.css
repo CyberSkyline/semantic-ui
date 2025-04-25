@@ -7433,7 +7433,7 @@ a.ui.inverted.black.header.header.header:hover {
 
 @font-face {
   font-family: 'icons';
-  src: url("./themes/default/assets/fonts/icons.woff2") format('woff2') , url("./themes/default/assets/fonts/icons.woff") format('woff');
+  src: url("https://cdn.jsdelivr.net/npm/fomantic-ui@2.9.0/dist/themes/default/assets/fonts/icons.woff2") format('woff2') , url("https://cdn.jsdelivr.net/npm/fomantic-ui@2.9.0/dist/themes/default/assets/fonts/icons.woff") format('woff');
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -7443,7 +7443,7 @@ a.ui.inverted.black.header.header.header:hover {
 
 @font-face {
   font-family: 'outline-icons';
-  src: url("./themes/default/assets/fonts/outline-icons.woff2") format('woff2') , url("./themes/default/assets/fonts/outline-icons.woff") format('woff');
+  src: url("https://cdn.jsdelivr.net/npm/fomantic-ui@2.9.0/dist/themes/default/assets/fonts/outline-icons.woff2") format('woff2') , url("https://cdn.jsdelivr.net/npm/fomantic-ui@2.9.0/dist/themes/default/assets/fonts/outline-icons.woff") format('woff');
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -7453,7 +7453,7 @@ a.ui.inverted.black.header.header.header:hover {
 
 @font-face {
   font-family: 'brand-icons';
-  src: url("./themes/default/assets/fonts/brand-icons.woff2") format('woff2') , url("./themes/default/assets/fonts/brand-icons.woff") format('woff');
+  src: url("https://cdn.jsdelivr.net/npm/fomantic-ui@2.9.0/dist/themes/default/assets/fonts/brand-icons.woff2") format('woff2') , url("https://cdn.jsdelivr.net/npm/fomantic-ui@2.9.0/dist/themes/default/assets/fonts/brand-icons.woff") format('woff');
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
