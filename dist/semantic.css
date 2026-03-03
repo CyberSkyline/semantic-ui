@@ -543,12 +543,12 @@ p:last-child {
         Links
 --------------------*/
 
-a {
+a:not(.rt-reset) {
   color: #4183C4;
   text-decoration: none;
 }
 
-a:hover {
+a:not(.rt-reset):hover {
   color: #1e70bf;
   text-decoration: none;
 }
